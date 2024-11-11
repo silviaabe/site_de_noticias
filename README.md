@@ -15,11 +15,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <b>HTML</b> para a estruturação do conteúdo.
 - <b>CSS</b> para estilização visual do site.
-- <b>CodePen</b> para visualizar o projeto na web.
+- <b>Vercel</b> para subir o projeto na web.
 
 ## Projeto
 
-[Acesse o projeto finalizado](https://codepen.io/Silvia-Buzatto/pen/PogPYqZ)
+🚀 [Acesse o projeto finalizado](https://site-de-noticias-five.vercel.app/)
 
 ## Autor
 
